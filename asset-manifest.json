@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/digdata/static/css/main.7e40fdc3.css",
+    "main.js": "/digdata/static/js/main.dbfc41ba.js",
+    "static/js/787.444fca95.chunk.js": "/digdata/static/js/787.444fca95.chunk.js",
+    "index.html": "/digdata/index.html",
+    "main.7e40fdc3.css.map": "/digdata/static/css/main.7e40fdc3.css.map",
+    "main.dbfc41ba.js.map": "/digdata/static/js/main.dbfc41ba.js.map",
+    "787.444fca95.chunk.js.map": "/digdata/static/js/787.444fca95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e40fdc3.css",
+    "static/js/main.dbfc41ba.js"
+  ]
+}
