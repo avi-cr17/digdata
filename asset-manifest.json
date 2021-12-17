@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/digdata/static/css/main.e65da10e.css",
+    "main.css": "/digdata/static/css/main.4587422e.css",
     "main.js": "/digdata/static/js/main.dbfc41ba.js",
     "static/js/787.444fca95.chunk.js": "/digdata/static/js/787.444fca95.chunk.js",
     "index.html": "/digdata/index.html",
-    "main.e65da10e.css.map": "/digdata/static/css/main.e65da10e.css.map",
+    "main.4587422e.css.map": "/digdata/static/css/main.4587422e.css.map",
     "main.dbfc41ba.js.map": "/digdata/static/js/main.dbfc41ba.js.map",
     "787.444fca95.chunk.js.map": "/digdata/static/js/787.444fca95.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e65da10e.css",
+    "static/css/main.4587422e.css",
     "static/js/main.dbfc41ba.js"
   ]
 }
