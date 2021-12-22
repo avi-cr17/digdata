@@ -26,7 +26,9 @@ function App() {
 
       </div>
       <div className='h-screen'>
-
+          <div className='flex h-50 w-full justify-center items-center'>
+          
+          </div>
       </div>
       </BrowserRouter>
     

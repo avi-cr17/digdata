@@ -11,6 +11,7 @@ const Close = () => setClick(false);
 
 const [navstate,Setnavstate]=useState("navbar")
 
+
   useEffect(()=>{
      document.addEventListener("scroll", e => {
       

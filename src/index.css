@@ -194,7 +194,7 @@ h2 {
 
   .nav-icon {
     display: none;
-    margin-top: -1.5%;
+    margin-top: -6vh;
   }
 
   .nav-menu.active {
@@ -216,13 +216,20 @@ h2 {
 
   .nav-icon {
     display: block;
-    position: absolute;
+    position: relative;
     top: 0;
     right: 0;
     transform: translate(-100%, 60%);
     font-size: 1.8rem;
     cursor: pointer;
     color: #ffdd40;
+  }
+}
+
+@media screen and (max-height: 650px) {
+  .top-div {
+    margin-top: 17vh;
+    height: 90vh;
   }
 }
 
@@ -270,6 +277,6 @@ h2 {
 
 .below-shadow {
   background-color: #004c4c;
-  height: 100vh;
+  height: 20vh;
   z-index: 10;
 }
