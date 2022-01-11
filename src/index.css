@@ -10,6 +10,9 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #ffe9cc;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  padding-bottom: 0 !important;
 }
 
 code {
@@ -152,7 +155,36 @@ h2 {
   height: 100vh;
 }
 
+.easy {
+  color: white;
+  font-size: 20vh;
+  font-family: "Oswald", sans-serif;
+  letter-spacing: 2vh;
+  text-align: center;
+}
+
+.third {
+  height: 240vh;
+}
+
+.below-shadow {
+  background-color: #004c4c;
+  height: 100vh;
+}
+
+.fourth {
+  background-color: #004c4c;
+  margin-top: 50vh;
+  height: 50vh;
+}
+
 @media screen and (max-width: 960px) {
+  .fourth {
+    background-color: #004c4c;
+    margin-top: 0vh;
+    height: 100vh;
+  }
+
   .nav-menu {
     display: flex;
     flex-direction: column;
@@ -166,6 +198,19 @@ h2 {
   }
   .top-div {
     height: 90vh;
+  }
+
+  .below-shadow {
+    background-color: #004c4c;
+    height: 20vh;
+  }
+
+  .easy {
+    color: white;
+    font-size: 15vw;
+    font-family: "Oswald", sans-serif;
+    letter-spacing: 0vh;
+    text-align: center;
   }
 
   .img-animated {
@@ -226,6 +271,11 @@ h2 {
   }
 }
 
+.contact {
+  width: 100vw;
+  color: white;
+}
+
 @media screen and (max-height: 650px) {
   .top-div {
     margin-top: 17vh;
@@ -235,7 +285,7 @@ h2 {
 
 .nav-sticky {
   background-color: #000000;
-  height: 6vh;
+  height: 50px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -272,11 +322,4 @@ h2 {
   background-color: #004c4c;
   height: 20vh;
   border-radius: 50% 50% 0% 0%;
-  z-index: 20;
-}
-
-.below-shadow {
-  background-color: #004c4c;
-  height: 20vh;
-  z-index: 10;
 }
