@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/digdata/static/css/main.42fae430.css",
-    "main.js": "/digdata/static/js/main.c9f2f6d7.js",
+    "main.css": "/digdata/static/css/main.7731579e.css",
+    "main.js": "/digdata/static/js/main.4e94da75.js",
     "static/js/787.444fca95.chunk.js": "/digdata/static/js/787.444fca95.chunk.js",
+    "static/media/invoice.jpeg": "/digdata/static/media/invoice.785a345eb868e3070212.jpeg",
     "static/media/dragDrop.gif": "/digdata/static/media/dragDrop.b65265299df1ca0ac606.gif",
+    "static/media/passport.jpg": "/digdata/static/media/passport.f0bcaca1b99ecffc83ad.jpg",
+    "static/media/medical.PNG": "/digdata/static/media/medical.8fe46085e05951f9bf07.PNG",
+    "static/media/id.jpg": "/digdata/static/media/id.091847e95ef311c5b029.jpg",
+    "static/media/license1.png": "/digdata/static/media/license1.f8bb1853f94d5ea143bb.png",
     "index.html": "/digdata/index.html",
-    "main.42fae430.css.map": "/digdata/static/css/main.42fae430.css.map",
-    "main.c9f2f6d7.js.map": "/digdata/static/js/main.c9f2f6d7.js.map",
+    "main.7731579e.css.map": "/digdata/static/css/main.7731579e.css.map",
+    "main.4e94da75.js.map": "/digdata/static/js/main.4e94da75.js.map",
     "787.444fca95.chunk.js.map": "/digdata/static/js/787.444fca95.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.42fae430.css",
-    "static/js/main.c9f2f6d7.js"
+    "static/css/main.7731579e.css",
+    "static/js/main.4e94da75.js"
   ]
 }
