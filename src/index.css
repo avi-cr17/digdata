@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+html,
+body {
+  margin: 0;
+  width: 100vw;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
@@ -9,10 +15,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #ffe9cc;
+  background-color: #fffaf5;
   overflow-x: hidden;
   overflow-y: scroll;
-  padding-bottom: 0 !important;
+  position: relative;
 }
 
 code {
@@ -36,6 +42,7 @@ code {
   right: 0;
   left: 0;
   z-index: 20;
+  width: 100vw;
 }
 
 .nav-container {
@@ -88,6 +95,10 @@ code {
 .nav-item {
   line-height: 40px;
   margin-right: 1rem;
+}
+
+.nav-item:hover {
+  cursor: pointer;
 }
 
 .nav-item:after {
@@ -165,11 +176,13 @@ h2 {
 
 .third {
   height: 240vh;
+  margin-top: 30vh;
 }
 
 .below-shadow {
   background-color: #004c4c;
   height: 100vh;
+  width: 100vw;
 }
 
 .fourth {
@@ -177,12 +190,51 @@ h2 {
   margin-top: 50vh;
   height: 50vh;
 }
+.slider {
+  width: calc(25vw * 10);
+  height: 60vh;
+  align-items: center;
+  justify-items: center;
+  animation: scroll 40s linear infinite;
+
+  overflow-x: hidden;
+}
+
+.slider:hover {
+  animation-play-state: paused;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(calc(-17vw * 10));
+  }
+}
+
+.doc {
+  margin-left: 10vw;
+  max-width: 17vw;
+  max-height: 25 vh;
+  transition: transform 1s;
+}
+
+.doc:hover {
+  transform: translateY(-20px);
+}
 
 @media screen and (max-width: 960px) {
   .fourth {
     background-color: #004c4c;
     margin-top: 0vh;
     height: 100vh;
+  }
+
+  .third {
+    height: 240vh;
+    margin-top: 0vh;
   }
 
   .nav-menu {
@@ -202,7 +254,27 @@ h2 {
 
   .below-shadow {
     background-color: #004c4c;
-    height: 20vh;
+    height: 40vh;
+  }
+
+  .slider {
+    width: calc(100vw);
+    height: 30vh;
+    align-items: center;
+    justify-items: center;
+    animation: scroll 100000s linear infinite;
+
+    overflow-x: hidden;
+  }
+
+  @keyframes scroll {
+    0% {
+      transform: translateX(0);
+    }
+
+    100% {
+      transform: translateX(calc(-100vw));
+    }
   }
 
   .easy {

@@ -1,7 +1,8 @@
 import React from 'react'
 import { useState } from 'react';
 import { useEffect } from 'react';
-import { NavLink } from 'react-router-dom';
+
+import { Link } from 'react-scroll';
 
 const Nav = () => {
 const [click, setClick] = React.useState(false);
@@ -35,25 +36,26 @@ return (
    <div className={click ? "main-container" : ""} onClick={()=>Close()} />
     <nav className={navstate+" shadow-2xl shadow-black"} onClick={(e)=>e.stopPropagation()}>
       <div className="nav-container">
-        <NavLink exact to="/" className="nav-logo">
+        <Link exact to="/" className="nav-logo">
           DigData
           <i class="fa fa-database" aria-hidden="true"></i>
-        </NavLink>
+        </Link>
 
         <ul className={click ? "nav-menu active" : "nav-menu"}>
           <li className="nav-item">
-            <NavLink
+            <Link
               exact
-              to="/"
+              to="top-div"
+              smooth={true}
               activeClassName="active"
               className="nav-links"
               onClick={click ? handleClick : null}
             >
               Home
-            </NavLink>
+            </Link>
           </li>
           <li className="nav-item">
-            <NavLink
+            <Link
               exact
               to="/about"
               activeClassName="active"
@@ -61,10 +63,10 @@ return (
               onClick={click ? handleClick : null}
             >
               Products
-            </NavLink>
+            </Link>
           </li>
           <li className="nav-item">
-            <NavLink
+            <Link
               exact
               to="/blog"
               activeClassName="active"
@@ -72,18 +74,19 @@ return (
               onClick={click ? handleClick : null}
             >
               Pricing
-            </NavLink>
+            </Link>
           </li>
           <li className="nav-item">
-            <NavLink
+            <Link
               exact
-              to="/contact"
+              to="fourth"
               activeClassName="active"
+              smooth={true}
               className="nav-links"
              onClick={click ? handleClick : null}
             >
               Contact Us
-            </NavLink>
+            </Link>
           </li>
         </ul>
         <div className="nav-icon" onClick={handleClick}>
