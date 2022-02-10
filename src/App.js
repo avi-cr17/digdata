@@ -11,6 +11,7 @@ import gsap from 'gsap';
 import ScrollTrigger from 'gsap/ScrollTrigger';
 import { useEffect } from 'react';
 import Fade from 'react-reveal/Fade';
+import DragDrop from './resources/dragDrop.svg';
 
 function App() {
   
@@ -122,20 +123,21 @@ function App() {
           <div className='flex lg:h-2/6 h-3/6 w-screen justify-around items-center bg-white p-5 shadow-2xl flex-col lg:flex-row shadow-black lg:order-2'>
           <Fade bottom>
             <h2 className='order-2 lg:w-1/3 w-full ' > Drag and Drop Images</h2>
-          <img src={dragDrop} className='w-full lg:h-1/2 lg:w-2/6 h-1/3  shadow-lg shadow-black  order-1 lg:order-2' />
+          <img src={DragDrop} className='w-full lg:h-1/2 lg:w-2/6 h-1/3  shadow-lg shadow-black  order-1 lg:order-2' />
           </Fade>
           
           </div>
           <div className='flex lg:h-2/6 h-3/6 w-screen justify-around items-center bg-white p-5 shadow-2xl flex-col lg:flex-row shadow-black lg:order-2'>
           <Fade bottom>
             <h2 className='order-2 lg:w-1/3 w-full ' > Drag and Drop Images</h2>
-          <img src={dragDrop} className='w-full lg:h-1/2 lg:w-2/6 h-1/3  shadow-lg shadow-black  order-1 lg:order-2' />
+          <object id="mysvg" type="image/svg+xml" data={dragDrop} className='w-full lg:h-1/2 lg:w-2/6 h-1/3  shadow-lg shadow-black  order-1 lg:order-2' />
           </Fade></div>
           <div className='flex lg:h-2/6 h-3/6 w-screen justify-around items-center bg-white p-5 shadow-2xl flex-col lg:flex-row shadow-black lg:order-2'>
           <Fade bottom>
             <h2 className='order-2 lg:w-1/3 w-full ' > Drag and Drop Images</h2>
           <img src={dragDrop} className='w-full lg:h-1/2 lg:w-2/6 h-1/3  shadow-lg shadow-black  order-1 lg:order-2' />
           </Fade></div>
+          
       </div>
       <div className='  panel fourth '> 
         <div className='lg:h-2/6 h-3/12 w-screen text-center text-5xl text-white '>
