@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/digdata/static/css/main.20355d9b.css",
-    "main.js": "/digdata/static/js/main.c2b89545.js",
+    "main.js": "/digdata/static/js/main.6be20f73.js",
     "static/js/787.444fca95.chunk.js": "/digdata/static/js/787.444fca95.chunk.js",
     "static/media/invoice.jpeg": "/digdata/static/media/invoice.785a345eb868e3070212.jpeg",
     "static/media/dragDrop.gif": "/digdata/static/media/dragDrop.b65265299df1ca0ac606.gif",
@@ -9,13 +9,14 @@
     "static/media/medical.PNG": "/digdata/static/media/medical.8fe46085e05951f9bf07.PNG",
     "static/media/id.jpg": "/digdata/static/media/id.091847e95ef311c5b029.jpg",
     "static/media/license1.png": "/digdata/static/media/license1.f8bb1853f94d5ea143bb.png",
+    "static/media/dragDrop.svg": "/digdata/static/media/dragDrop.7b2e6778ca565eb3758c3b5fb3342c1b.svg",
     "index.html": "/digdata/index.html",
     "main.20355d9b.css.map": "/digdata/static/css/main.20355d9b.css.map",
-    "main.c2b89545.js.map": "/digdata/static/js/main.c2b89545.js.map",
+    "main.6be20f73.js.map": "/digdata/static/js/main.6be20f73.js.map",
     "787.444fca95.chunk.js.map": "/digdata/static/js/787.444fca95.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.20355d9b.css",
-    "static/js/main.c2b89545.js"
+    "static/js/main.6be20f73.js"
   ]
 }

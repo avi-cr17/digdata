@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="eoKAtdQML7h1" viewBox="0 0 1728 1117" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+  <defs>
+    <linearGradient id="eoKAtdQML7h19-stroke" x1="0.804627" y1="0.5" x2="1" y2="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="eoKAtdQML7h19-stroke-0" offset="0%" stop-color="#000" />
+      <stop id="eoKAtdQML7h19-stroke-1" offset="100%" stop-color="#fff" />
+    </linearGradient>
+    <linearGradient id="eoKAtdQML7h27-stroke" x1="0.804627" y1="0.5" x2="1" y2="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="eoKAtdQML7h27-stroke-0" offset="0%" stop-color="#000" />
+      <stop id="eoKAtdQML7h27-stroke-1" offset="100%" stop-color="#fff" />
+    </linearGradient>
+    <linearGradient id="eoKAtdQML7h35-stroke" x1="0.804627" y1="0.5" x2="1" y2="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="eoKAtdQML7h35-stroke-0" offset="0%" stop-color="#000" />
+      <stop id="eoKAtdQML7h35-stroke-1" offset="100%" stop-color="#fff" />
+    </linearGradient>
+    <linearGradient id="eoKAtdQML7h43-stroke" x1="0.804627" y1="0.5" x2="1" y2="0.5" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+      <stop id="eoKAtdQML7h43-stroke-0" offset="0%" stop-color="#000" />
+      <stop id="eoKAtdQML7h43-stroke-1" offset="100%" stop-color="#fff" />
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#eoKAtdQML7h50)">
+    <g>
+      <g>
+        <rect width="1728" height="1117" rx="0" ry="0" fill="#f6ff7b" />
+      </g>
+      <g>
+        <rect width="1728" height="933" rx="0" ry="0" transform="translate(0-47)" fill="#fff" />
+      </g>
+      <rect width="393" height="721" rx="51" ry="51" transform="translate(43 16)" fill="#eaeaea" />
+      <ellipse rx="20.5" ry="19" transform="translate(100.5 76)" fill="#f04343" />
+      <ellipse rx="20.5" ry="19" transform="translate(100.5 260)" fill="#46f043" />
+      <ellipse rx="20.5" ry="19" transform="translate(99.5 419)" fill="#dac71c" />
+      <ellipse rx="20.5" ry="19" transform="translate(100.5 603)" fill="#5b43f0" />
+      <rect width="237" height="49" rx="24.5" ry="24.5" transform="translate(156 52)" fill="#fff" />
+      <rect width="237" height="49" rx="24.5" ry="24.5" transform="translate(156 395)" fill="#fff" />
+      <rect width="237" height="49" rx="24.5" ry="24.5" transform="translate(156 578)" fill="#fff" />
+      <rect width="237" height="49" rx="24.5" ry="24.5" transform="translate(156 241)" fill="#fff" />
+      <rect width="1072" height="507" rx="0" ry="0" transform="matrix(1.038633 0 0 1.387752 548.066621 24.704868)" fill="#dcdcdc" />
+      <g transform="translate(276.22686 0.000001)">
+        <rect width="135.829756" height="159.799714" rx="0" ry="0" transform="matrix(1.039216 0 0 1.166665 322.421772 902.868516)" fill="#fff" stroke="url(#eoKAtdQML7h19-stroke)" />
+        <line x1="-25.982884" y1="0" x2="25.982884" y2="0" transform="translate(367.017116 970.296042)" fill="none" stroke="#3f5787" stroke-width="3" />
+        <line x1="-15.157286" y1="0" x2="15.157286" y2="0" transform="translate(408.157286 970.296042)" fill="none" stroke="#3f5787" stroke-width="3" />
+        <line x1="-41.14017" y1="0" x2="41.14017" y2="0" transform="translate(382.174402 1029.067714)" fill="none" stroke="#3f5787" stroke-width="3" />
+        <line x1="-41.14017" y1="0" x2="41.14017" y2="0" transform="translate(382.174402 1064.330717)" fill="none" stroke="#3f5787" stroke-width="3" />
+        <line x1="-54.363797" y1="0" x2="54.363796" y2="0" transform="translate(395.398029 940.910206)" fill="none" stroke="#3f5787" stroke-width="3" />
+        <line x1="-33.561527" y1="0" x2="33.561527" y2="0" transform="translate(374.595759 996.084884)" fill="none" stroke="#3f5787" stroke-width="3" />
+      </g>
+      <g transform="translate(575.962389 0.000001)">
+        <rect width="135.829756" height="159.799714" rx="0" ry="0" transform="matrix(1.039216 0 0 1.166665 322.421772 902.868516)" fill="#fff" stroke="url(#eoKAtdQML7h27-stroke)" />
+        <line x1="-25.982884" y1="0" x2="25.982884" y2="0" transform="translate(367.017116 970.296042)" fill="none" stroke="#3f5787" stroke-width="3" />
+        <line x1="-15.157286" y1="0" x2="15.157286" y2="0" transform="translate(408.157286 970.296042)" fill="none" stroke="#3f5787" stroke-width="3" />
+        <line x1="-41.14017" y1="0" x2="41.14017" y2="0" transform="translate(382.174402 1029.067714)" fill="none" stroke="#3f5787" stroke-width="3" />
+        <line x1="-41.14017" y1="0" x2="41.14017" y2="0" transform="translate(382.174402 1064.330717)" fill="none" stroke="#3f5787" stroke-width="3" />
+        <line x1="-54.363797" y1="0" x2="54.363796" y2="0" transform="translate(395.398029 940.910206)" fill="none" stroke="#3f5787" stroke-width="3" />
+        <line x1="-33.561527" y1="0" x2="33.561527" y2="0" transform="translate(374.595759 996.084884)" fill="none" stroke="#3f5787" stroke-width="3" />
+      </g>
+      <g transform="translate(922.715254 0.000001)">
+        <rect width="135.829756" height="159.799714" rx="0" ry="0" transform="matrix(1.039216 0 0 1.166665 322.421772 902.868516)" fill="#fff" stroke="url(#eoKAtdQML7h35-stroke)" />
+        <line x1="-25.982884" y1="0" x2="25.982884" y2="0" transform="translate(367.017116 970.296042)" fill="none" stroke="#3f5787" stroke-width="3" />
+        <line x1="-15.157286" y1="0" x2="15.157286" y2="0" transform="translate(408.157286 970.296042)" fill="none" stroke="#3f5787" stroke-width="3" />
+        <line x1="-41.14017" y1="0" x2="41.14017" y2="0" transform="translate(382.174402 1029.067714)" fill="none" stroke="#3f5787" stroke-width="3" />
+        <line x1="-41.14017" y1="0" x2="41.14017" y2="0" transform="translate(382.174402 1064.330717)" fill="none" stroke="#3f5787" stroke-width="3" />
+        <line x1="-54.363797" y1="0" x2="54.363796" y2="0" transform="translate(395.398029 940.910206)" fill="none" stroke="#3f5787" stroke-width="3" />
+        <line x1="-33.561527" y1="0" x2="33.561527" y2="0" transform="translate(374.595759 996.084884)" fill="none" stroke="#3f5787" stroke-width="3" />
+      </g>
+      <g id="eoKAtdQML7h42" transform="translate(689.135915 -287.617049)" opacity="1">
+        <rect width="135.829756" height="159.799714" rx="0" ry="0" transform="matrix(1.039216 0 0 1.166665 322.421772 902.868516)" fill="#fff" stroke="url(#eoKAtdQML7h43-stroke)" />
+        <line x1="-25.982884" y1="0" x2="25.982884" y2="0" transform="translate(367.017116 970.296042)" fill="none" stroke="#3f5787" stroke-width="3" />
+        <line x1="-15.157286" y1="0" x2="15.157286" y2="0" transform="translate(408.157286 970.296042)" fill="none" stroke="#3f5787" stroke-width="3" />
+        <line x1="-41.14017" y1="0" x2="41.14017" y2="0" transform="translate(382.174402 1029.067714)" fill="none" stroke="#3f5787" stroke-width="3" />
+        <line x1="-41.14017" y1="0" x2="41.14017" y2="0" transform="translate(382.174402 1064.330717)" fill="none" stroke="#3f5787" stroke-width="3" />
+        <line x1="-54.363797" y1="0" x2="54.363796" y2="0" transform="translate(395.398029 940.910206)" fill="none" stroke="#3f5787" stroke-width="3" />
+        <line x1="-33.561527" y1="0" x2="33.561527" y2="0" transform="translate(374.595759 996.084884)" fill="none" stroke="#3f5787" stroke-width="3" />
+      </g>
+    </g>
+    <clipPath id="eoKAtdQML7h50">
+      <rect width="1728" height="1117" rx="0" ry="0" fill="#fff" />
+    </clipPath>
+  </g>
+  <g id="eoKAtdQML7h52" transform="matrix(0.802042 0 0 0.75803 516.322551 -26.74883)" opacity="0">
+    <ellipse rx="90.630546" ry="88.465755" transform="matrix(1.28683 0 0 1.402254 725.988685 497.948569)" fill="#00e12a" stroke-width="0" />
+    <ellipse rx="76.900998" ry="78.77719" transform="matrix(1.255818 0 0 1.329355 725.988685 497.77719)" fill="#dcdcdc" stroke-width="0" />
+    <rect width="67.219367" height="76.550841" rx="0" ry="0" transform="translate(796.780632 469.71635)" fill="#dcdcdc" stroke-width="0" />
+  </g>
+  <g id="eoKAtdQML7h56" transform="matrix(1.986657 0 0 2.052174 286.402918-1448.696423)" opacity="0">
+    <ellipse rx="93.100315" ry="88.835548" transform="translate(417.21781 881.460496)" fill="#41ff67" stroke-width="0" />
+    <rect width="91.668003" height="17.18775" rx="0" ry="0" transform="matrix(.533096 0.376573-.517907 0.733176 365.840017 889.43137)" fill="#fff" stroke-width="0" />
+    <ellipse rx="4.421135" ry="7.692017" transform="translate(1138.069024 426.692018)" fill="#fff" stroke-width="0" />
+    <rect width="122.025782" height="20.052376" rx="0" ry="0" transform="matrix(.559445-.793712-.593064-.418019 410.794169 934.078293)" fill="#fff" stroke-width="0" />
+  </g>
+ </svg>
